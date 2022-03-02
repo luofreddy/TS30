@@ -82,4 +82,3 @@ justAnObject = Object;
 justAnObject = Array;
 
 // object type 可以被所有不是原始型別的覆寫
-
